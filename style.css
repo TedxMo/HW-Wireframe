@@ -34,34 +34,33 @@ nav {
 	color: #333;
 	background: #ccc;
 	height: 300px;
-	clear: left;
+	/*clear: left;*/
 }
 #article{
-	padding: 20px
-	float: left;
+	padding: 7.5px;
+	/*float: left;*/
 	background:grey;
 	height: 230px;
 }
 #aside{
 	float: left;
-	width: 28%;
-	
+	width: 28%;	
 	padding: 20px;
 	color: #333;
 	background: #ccc;
 	height: 300px;
 }
-#abc{
-	padding: 20px
-	float: left;
+#heading{
+	/*width: 340px;*/
+	/*padding: 20px;*/
+	/*float: left;*/
 	background:#ccc;
 	height: 85px;
-	margin: 2%;
+	margin-bottom: 7.5px;
 }
 #para{
-	padding: 20px
-	float: left;
-	margin: 2%;
+	/*padding: 20px;*/
+	/*float: left;*/
 	background:#ccc;
 	height: 90px;
 }
